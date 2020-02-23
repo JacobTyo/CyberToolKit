@@ -1,0 +1,18 @@
+make[1]: Entering directory `/home/Jake/BYOB/src/binutils-2.22'
+Configuring in ./intl
+configure: creating cache ./config.cache
+checking whether make sets $(MAKE)... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether NLS is requested... yes
+checking for msgfmt... /usr/bin/msgfmt
+checking for gmsgfmt... /usr/bin/msgfmt
+checking for xgettext... /usr/bin/xgettext
+checking for msgmerge... /usr/bin/msgmerge
+checking for x86_64-unknown-linux-gnu-gcc... gcc
+checking for C compiler default output file name... 
+configure: error: in `/home/Jake/BYOB/src/binutils-2.22/intl':
+configure: error: C compiler cannot create executables
+See `config.log' for more details.
+make[1]: *** [configure-intl] Error 1
+make[1]: Leaving directory `/home/Jake/BYOB/src/binutils-2.22'
+make: *** [all] Error 2

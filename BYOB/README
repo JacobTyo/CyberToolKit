@@ -1,0 +1,11 @@
+BYOB - Bring Your Own Binaries
+
+This is a recovery tool kit that includes most command binaries
+
+To Do:
+Problems getting net-tools binaries working, need to redo
+Same with gawk
+Same with grep
+Same with netcat
+same with binutils
+
